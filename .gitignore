@@ -1,0 +1,7 @@
+*.tgz
+*.def
+*.guide
+*.lef
+*.swp
+build/
+scripts/run*
