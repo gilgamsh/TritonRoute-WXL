@@ -4,4 +4,4 @@
 *.lef
 *.swp
 build/
-scripts/run*
+scripts/run_*
